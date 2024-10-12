@@ -1,0 +1,14 @@
+[
+  {
+    "Nombre": "Coder",
+    "Apellido": "House",
+    "Edad": 30,
+    "Curso": "Programación backend"
+  },
+  {
+    "Nombre": "Coder2",
+    "Apellido": "House2",
+    "Edad": 35,
+    "Curso": "Programación backend II"
+  }
+]

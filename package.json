@@ -1,0 +1,12 @@
+{
+  "name": "nuevacarpeta",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch clase1/repaso.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
